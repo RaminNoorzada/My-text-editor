@@ -46,8 +46,7 @@ module.exports = () => {
     }),
     ],
 
-// TODO: Add CSS loaders and babel to webpack.
-
+    // TODO: Add CSS loaders and babel to webpack.
 module: { 
       rules: [
         {
