@@ -62,8 +62,8 @@ module: {
             loader: 'babel-loader',
             options: {
               presets: ['@babel/preset-env'],
-              plugins: ['@bebel/plugin-proposal-object-rest-spread', 
-              'bebel/transform-runtime'],
+              plugins: ['@babel/plugin-proposal-object-rest-spread', 
+              '@babel/transform-runtime'],
 
             },
           },
