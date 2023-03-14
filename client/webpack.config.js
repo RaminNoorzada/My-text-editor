@@ -33,8 +33,8 @@ module.exports = () => {
         description: 'It is a note taker that uses java script syntax highlighting!',
         background_color: '#40826d',
         theme_color: '#336857',
-        start_url: '/',
-        publicPath: '/',
+        start_url: './',
+        publicPath: './',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
