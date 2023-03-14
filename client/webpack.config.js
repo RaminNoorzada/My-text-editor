@@ -42,7 +42,8 @@ module.exports = () => {
             destination: path.join('assets', 'icons'),
           },
         ],
-      }),
+
+    }),
     ],
 
 // TODO: Add CSS loaders and babel to webpack.
