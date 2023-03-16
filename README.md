@@ -6,6 +6,7 @@ This is a simple text editor that allows users to write notes with syntax highli
 Make sure you have Node.js and npm installed on your machine.
 
 ## Deployed Application
+[Deployed link here]()
 
 ## Page Functionality
 ![Alt text](./src/images/image(1).png)
