@@ -9,8 +9,8 @@ Make sure you have Node.js and npm installed on your machine.
 [Deployed link here]()
 
 ## Page Functionality
-![Alt text](./src/images/image(1).png)
-![Alt text](./src/images/image().png)
+![Alt text](./client/src/images/image(1).png)
+![Alt text](./client/src/images/image(2).png)
 
 ## Installation
 1. Clone or download the project files.
